@@ -1,10 +1,6 @@
 import streamlit as st
-import csv
-import statistics
-import pandas as pd
-import datetime
 import matplotlib.pyplot as plt
-import random
+
 
 def bar(color1, data):
     p = data
